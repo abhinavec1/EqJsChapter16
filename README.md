@@ -1,5 +1,7 @@
 # A Platform Game
 The project consists of a game designed using JavaScript wherein the aim is to collect all the coins, avoiding the lava in order to progress.
+## Hosted URL
+https://abhinavec1.github.io/EqJsChapter16/
 ## How to start
 Use the arrow keys(left & right) to move the character and the up arrow to jump.
 ## Excercises Solved
